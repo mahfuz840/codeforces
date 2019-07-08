@@ -1,1 +1,1 @@
-# codeforces
+codeforces submissions only
